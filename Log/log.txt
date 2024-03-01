@@ -1,0 +1,57 @@
+A new movie document name MI1 is inserted by s.maity.
+A new movie document name Sample new Movie is inserted by s.maity.
+Query took 38 milliseconds to fetch the data.
+Query took 44 milliseconds to fetch the data.
+Query took 344 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.
+Query took 69 milliseconds to fetch the data.
+A new movie document name MI1@! is inserted by s.maity.
+A new movie document name MI1@! is inserted by s.maity.
+A new movie document name MI12 is inserted by s.maity.
+Query took 51 milliseconds to fetch the data.
+Query took 41 milliseconds to fetch the data.
+Query took 62 milliseconds to fetch the data.
+Query took 67 milliseconds to fetch the data.
+Query took 54 milliseconds to fetch the data.
+Query took 50 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.
+Query took 63 milliseconds to fetch the data.
+Query took 61 milliseconds to fetch the data.
+Query took 65 milliseconds to fetch the data.
+Query took 47 milliseconds to fetch the data.
+Query took 39 milliseconds to fetch the data.
+Query took 51 milliseconds to fetch the data.
+Query took 68 milliseconds to fetch the data.
+Query took 52 milliseconds to fetch the data.
+Query took 65 milliseconds to fetch the data.
+Query took 1149 milliseconds to fetch the data.
+Query took 111 milliseconds to fetch the data.
+Query took 111 milliseconds to fetch the data.
+Query took 56 milliseconds to fetch the data.
+Query took 59 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.
+Query took 63 milliseconds to fetch the data.
+Query took 65 milliseconds to fetch the data.
+Query took 57 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.
+Query took 1307 milliseconds to fetch the data.
+Query took 295 milliseconds to fetch the data.
+Query took 34 milliseconds to fetch the data.
+Query took 37 milliseconds to fetch the data.
+Query took 46 milliseconds to fetch the data.
+Query took 56 milliseconds to fetch the data.
+Query took 36 milliseconds to fetch the data.
+Query took 58 milliseconds to fetch the data.
+Query took 52 milliseconds to fetch the data.
+Query took 57 milliseconds to fetch the data.
+Query took 52 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.
+Query took 53 milliseconds to fetch the data.
+Query took 336 milliseconds to fetch the data.
+Query took 56 milliseconds to fetch the data.
+Query took 56 milliseconds to fetch the data.
+Query took 54 milliseconds to fetch the data.
+Query took 41 milliseconds to fetch the data.
+Query took 49 milliseconds to fetch the data.

@@ -180,5 +180,3 @@ exports.getMovieByGenre = asyncErrorHandler(async (req, res, next) => {
     },
   });
 });
-
-//test

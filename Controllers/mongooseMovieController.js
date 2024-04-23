@@ -20,7 +20,11 @@ exports.createMovie = asyncErrorHandler(async (req, res, next) => {
 });
 
 exports.getMovies = asyncErrorHandler(async (req, res, next) => {
-  const features = new Apifeatures(Movie.find(), req.query).filter().sort().limitFields().paginate()  //Not Working
+  const features = new Apifeatures(Movie.find(), req.query)
+    .filter()
+    .sort()
+    .limitFields()
+    .paginate(); //Not Working
   let movies = await features.query;
   //Advance filtering by Query search: http://localhost:4000/api/v1/movies?duration[gte]=135&ratings[gte]=7.9&price[lte]=58&sort=1&page=12
   //Exclude fields from query object
@@ -176,3 +180,5 @@ exports.getMovieByGenre = asyncErrorHandler(async (req, res, next) => {
     },
   });
 });
+
+//test

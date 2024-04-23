@@ -80,7 +80,7 @@ exports.forgotPassword = asyncErrorHandler(async (req, res, next) => {
     html: resetUrl,
   };
   try {
-    // await sendEmail(data);
+    await sendEmail(data);
     res.status(200).json({
       status: "success",
       message: "Email sent",

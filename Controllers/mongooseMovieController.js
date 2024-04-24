@@ -180,4 +180,4 @@ exports.getMovieByGenre = asyncErrorHandler(async (req, res, next) => {
     },
   });
 });
-// comment
+// comment 2

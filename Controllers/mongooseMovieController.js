@@ -156,6 +156,8 @@ exports.getMovieStats = asyncErrorHandler(async (req, res, next) => {
   });
 });
 
+//Agg
+
 exports.getMovieByGenre = asyncErrorHandler(async (req, res, next) => {
   const genre = req.params.genre;
   const movies = await Movie.aggregate([
